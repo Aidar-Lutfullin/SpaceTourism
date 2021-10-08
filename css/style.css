@@ -977,11 +977,6 @@ foreignObject {
     line-height: 26px;
   }
 
-  .slider__arrow-left,
-  .slider__arrow-right {
-    display: none;
-  }
-
   .special-offer__item-box {
     padding: 20px 10px;
   }
@@ -1045,10 +1040,6 @@ foreignObject {
   .title {
     font-size: 28px;
     line-height: 28px;
-  }
-
-  .special-offer__item-box {
-    min-height: 350px;
   }
 }
 
